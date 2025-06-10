@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "lz豆瓣",
-      "name": "⚡公众号林中的小屋⚡接口免费，请勿花钱购买，小心被骗",
+      "name": "⚡⚡⚡自己测试用⚡⚡⚡",
       "type": 3,
       "api": "csp_Douban",
       "jar": "./jar/tanchuang.php",
